@@ -1,8 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jeslan==============================================================================================================================Junior Game Dev & Artist------------------------Hello! Welcome to my read me. I am software engineer major with passion on making games and drawing. I have been working with Godot for the last 1 year and been drawing for about 2 years.* 
-🌍  *I'm based in Turkey* 
-✉️  *You can contact me at [soysalahmetfaruk@gmail.com](mailto:soysalahmetfaruk@gmail.com)* 
-🧠  *I'm learning how to make better games.*
-🤝  *I'm open to collaborating on any type of game development projects.*
+Hi 👋 My name is Jeslan
+=======================
+Junior Game Dev & Artist
+------------------------
+Hello! Welcome to my read me. I am software engineer major with passion on making games and drawing. I have been working with Godot for the last 1 year and been drawing for about 2 years.
+* 🌍  I'm based in Turkey.
+* ✉️  You can contact me at [soysalahmetfaruk@gmail.com](mailto:soysalahmetfaruk@gmail.com)
+* 🧠  I'm learning how to make better games.
+* 🤝  I'm open to collaborating on on any type of game development projects.
+* ⚡  If you have anything to tell me hit me up on discord!
 
 <a href="https://www.github.com/Jes-lan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Jes-lan?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a><a href="https://www.twitch.tv/jes_lan" target="_blank" rel="noreferrer"><img
