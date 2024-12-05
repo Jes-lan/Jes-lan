@@ -3,7 +3,7 @@ Hi 👋 My name is Jeslan
 Junior Game Dev & Artist
 ------------------------
 Hello! Welcome to my read me. I am software engineer major with passion on making games and drawing. I have been working with Godot for the last 1 year and been drawing for about 2 years.
-* 🌍  I'm based in Turkey.
+* 🌍  I live in Turkey.
 * ✉️  You can contact me at [soysalahmetfaruk@gmail.com](mailto:soysalahmetfaruk@gmail.com)
 * 🧠  I'm learning how to make better games.
 * 🤝  I'm open to collaborating on on any type of game development projects.
